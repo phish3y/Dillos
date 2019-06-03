@@ -1,0 +1,6 @@
+framework module Pods_Dillos {
+  umbrella header "Pods-Dillos-umbrella.h"
+
+  export *
+  module * { export * }
+}
