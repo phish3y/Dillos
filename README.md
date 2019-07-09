@@ -1,6 +1,6 @@
-## Dillos ##
+# Dillos #
 
-# 2D iOS game #
+### 2D iOS game ###
 
 * Swift 4
 * SpriteKit
